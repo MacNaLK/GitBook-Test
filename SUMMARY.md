@@ -2,3 +2,4 @@
 
 * [MacNa MC Architecture Diagram](README.md)
 * [MacNa MC Application Wire Frames](macna-mc-application-wire-frames.md)
+* [About Developer](about-developer.md)
